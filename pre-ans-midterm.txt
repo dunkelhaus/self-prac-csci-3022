@@ -1,0 +1,7 @@
+1. b (from slides)
+2. c (for x < 1, 1+4/2 is low q, otherwise 4+4/2 is low q)
+3. b (from slides)
+4. a (lesson4 slides)
+5. "
+6. "
+7. 
